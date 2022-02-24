@@ -1,0 +1,27 @@
+--- 
+title: "My Figs_book"
+author: "CTang"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+# output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: ctang83/NB_figs
+description: "Recording my visualising stuff."
+---
+
+# Intro & Records {#intro}
+
+This notebook covers my daily improvements in both knowledges and skills.
+
+## 2022年  
+
+### Feb
+
+Debug: RStudio couldn't work well if R libraries are synchronized, I'm considering transfer the platform to RStudio Cloud, like Deepnote-Python.
+
+1. **Archival data, if it is from a public domain** Please note, you will have to apply for ethics approval if the information you intend to use is identified personal information (states or implies identity), not in a public domain or if you will collect data in addition to the archival research.
+
+2. **Administrative data collection** Collection of data from staff or other stakeholders for the purposes of informing or improving a process within your organisation is not considered research. Still, if you later decide to use this data for research purposes, you will need to apply for ethics approval. In addition, the use of identified data always requires ethics approval.
