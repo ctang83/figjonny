@@ -1,6 +1,6 @@
 --- 
-title: "My Figs_book"
-author: "Jonny Tang"
+title: "My book with maps & geo 悉悉的地图和地理"
+author: "Jonny Tang 唐憬哲"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 # output: bookdown::gitbook
@@ -12,9 +12,11 @@ github-repo: ctang83/figjonny
 description: "Recording my visualising stuff."
 ---
 
-# Intro {#intro}
+# Intro 简介 {#intro}
 
 This figures notebook includes Jonny's collection of MAPs and GEO-related pictures.
+
+这是悉悉的地图收集和地理书.
 
 For my notebook, all figures are saved in folder /NB_figs/figs. Using codes below: 
 
