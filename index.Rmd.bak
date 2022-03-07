@@ -1,6 +1,6 @@
 --- 
-title: "My Figs_book"
-author: "CTang"
+title: "My book with maps & geo 悉悉的地图和地理"
+author: "Jonny Tang 唐憬哲"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 # output: bookdown::gitbook
@@ -8,20 +8,113 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: ctang83/NB_figs
+github-repo: ctang83/figjonny
 description: "Recording my visualising stuff."
 ---
 
-# Intro & Records {#intro}
+# Intro 简介 {#intro}
 
-This notebook covers my daily improvements in both knowledges and skills.
+This figures notebook includes Jonny's collection of MAPs and GEO-related pictures.
 
-## 2022年  
+这是悉悉的地图收集和地理书.
 
-### Feb
+For my notebook, all figures are saved in folder /NB_figs/figs. Using codes below: 
 
-Debug: RStudio couldn't work well if R libraries are synchronized, I'm considering transfer the platform to RStudio Cloud, like Deepnote-Python.
+`![title](figs/fig_codechunk_opt.jpg){width=100%}`
 
-1. **Archival data, if it is from a public domain** Please note, you will have to apply for ethics approval if the information you intend to use is identified personal information (states or implies identity), not in a public domain or if you will collect data in addition to the archival research.
+# Australia
 
-2. **Administrative data collection** Collection of data from staff or other stakeholders for the purposes of informing or improving a process within your organisation is not considered research. Still, if you later decide to use this data for research purposes, you will need to apply for ethics approval. In addition, the use of identified data always requires ethics approval.
+
+![Australia中文](figs/au_map.gif){width=100%}
+
+![Australia中文max](figs/au0.jpg){width=100%}
+
+![Australia中文地质](figs/au1.jpg){width=100%}
+
+![Australia中文卫星](figs/au2.jpg){width=100%}
+
+
+
+# Sydney
+
+![Sydney_CityRail](figs/Sydney_CityRail.png){width=100%}
+
+![Sydney中文1](figs/Sydney_cn1.jpg){width=100%}
+
+![Sydney中文2](figs/Sydney_cn2.jpg){width=100%}
+
+![Sydney英文1](figs/Sydney_eng1.jpg){width=100%}
+
+![Sydney英文2](figs/Sydney_eng2.jpg){width=100%}
+
+![Sydney人口密度1](figs/Sydney_pop_density.jpg){width=100%}
+
+![Sydney人口密度2](figs/Sydney_pop_density2.jpg){width=100%}
+
+
+# UNSW
+
+![UNSW map](figs/unsw_map.gif){width=100%}
+
+![UNSW卫星](figs/unsw_ortho2005.jpg){width=100%}
+
+![UNSW aerial1](figs/UNSW_overhead1.jpg){width=100%}
+
+![UNSW aerial2](figs/UNSW_overhead2.jpg){width=100%}
+
+
+# 殖民地
+
+![法国殖民地1800s](figs/法国殖民地1800s.png){width=100%}
+
+![法国殖民地1920s](figs/法国殖民地1920.png){width=100%}
+
+![法国殖民地500year](figs/法国殖民地500year.gif){width=100%}
+
+![英国殖民地1921](figs/英国殖民地1921.png){width=100%}
+
+![英国殖民地五百年加总](figs/英国殖民地all.png){width=100%}
+
+
+# World
+
+![世界1](figs/shijie.gif){width=100%}
+
+![世界2 map](figs/shijie_climate_map.png){width=100%}
+
+![世界3 map](figs/shijiemax.jpg){width=100%}
+
+
+# World real size
+
+![World real size](figs/world_realsize1.png){width=100%}
+
+![World real size](figs/world_realsize2.png){width=100%}
+
+
+# 爸爸的记录
+
+![](figs/.jpg){width=100%}
+
+![](figs/.jpg){width=100%}
+
+![](figs/.jpg){width=100%}
+
+![](figs/.jpg){width=100%}
+
+![](figs/.jpg){width=100%}
+
+![](figs/.jpg){width=100%}
+
+![](figs/.jpg){width=100%}
+
+![](figs/.jpg){width=100%}
+
+![](figs/.jpg){width=100%}
+
+
+
+
+
+
+
