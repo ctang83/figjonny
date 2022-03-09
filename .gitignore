@@ -20,6 +20,7 @@ vignettes/*.pdf
 /*_cache/
 /cache/
 # Temporary files created by R markdown
+*.bak
 *.utf8.md
 *.knit.md
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
@@ -27,4 +28,4 @@ rsconnect/
 .Rproj.user
 .Rdata
 .DS_Store
-pic
+
