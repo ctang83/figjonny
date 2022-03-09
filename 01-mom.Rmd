@@ -1,6 +1,34 @@
 # Notes 2022
 
-## NSW新州数学教学体系
+## Jan - March
+
+### NSW新州数学教学体系2
+
+具体课本(study and teaching / textbook)的挑选, 是个很麻烦的事, 因为到了Stage 6, 面临这边的高考
+
+这边有高中文凭HSC(Higher School Certificate), 也有类似高考ATAR, 当然只有想读大学的人参加
+
+`THE Universities Admissions Centre (UAC) has announced that the Australian Tertiary Admission Rank (ATAR) for 2021 NSW HSC students will now be released at 9am on Thursday 20 January 2022.`
+
+`The Higher School Certificate (HSC) is the highest educational award in New South Wales schools. It is awarded to NSW students who have satisfactorily completed Years 11 and 12 at secondary school.`
+
+但是, 澳洲的高考和大学录取呢, 又不完全重合, 尤其现在海外大学生下降的背景下, 很多大学开始跳过ATAR直接通过Year 11的成绩就录取(锁定)学生, 而且还私下给学费减免.
+
+话说回来, 我们比较了下面四个系列的书, 图书馆都有借:
+
+1. Maths in focus -- 最早在Ryde图书馆看到
+1. CambridgeMaths stage 6 
+1. Oxford insight Mathematics general
+1. Cambridge Mathematics 3 Unit (Extension 1) -- 这套直接放弃, 编排密度高, 练习过多, 例题过程不够
+
+![Cambridge_mathematics_3U_extension_1](figs/fig_cambridgemathematics3U.png){width=50%}
+
+![CambridgeMaths](figs/fig_camMaths.png){width=50%}
+
+![Oxford_insight](figs/fig_oxfordmath.png){width=50%}
+
+
+### NSW新州数学教学体系1
 
 悉悉2022年3月6日, 正式学完K-Year10的数学, 已自学内容包括: 
 
@@ -26,7 +54,7 @@
 1. 第3条线的教科书我对比了, 是cover第2条线内容的(800多页 VS. 500多页), 
 1. 第4条线的书比较薄, 明显是第3条的递进, 结论就是选第3条线(extension 1 还有个preliminary配合)
 
-## Sydney Grammar School悉尼文法学校申请
+### Sydney Grammar School悉尼文法学校申请
 
 
 
