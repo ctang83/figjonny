@@ -14,7 +14,7 @@ bookdown::gitbook:
      before: | 
         <li><a href="./">Notebook JonnyTang</a></li>  
      after: |
-        <li><a href="https://bookdown.org" target="blank">With bookdown</a></li>
+        <li><a href="https://bookdown.org" target="blank">tang.chengxiang@gmail.com</a></li>
     edit: https://github.com/ctang83/NB_tang/tree/master/%s  #click and go to online folder
     download: ["pdf"] #set up downloading PDF option at the top toolbar 
     search:

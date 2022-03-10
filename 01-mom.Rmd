@@ -14,9 +14,9 @@ PS:
 
 1. 在Gumtree上找数学书, 想着虽然从图书馆找书对比, 但高中毕竟不一样, 很多内容以后要反复练习和回顾, 悉悉在家里用的时间长, 还是买一套好了
 1. 然后发现, 新州NSW和维州VIC 西澳WA等对Stage 6几条线的数学书称谓又不一样, 他们叫Mathematics Essential, Applications, Methods, Specialist, 几个层级和NSW也吻合, 我觉得适用描述非常清晰, 摘录如下:
-	1. Mathematics *Specialist* is the only ATAR mathematics course that should not be taken as a stand-alone course and it is recommended to be studied in conjunction with the *Methods* ATAR course as preparation for entry to specialised university courses such as engineering, physical sciences and mathematics.
-	1. Mathematics *Methods* focuses on the use of calculus and statistical analysis. The study of calculus provides a basis for understanding rates of change in the physical world, and includes the use of functions, their derivatives and integrals, in modelling physical processes. The study of statistics develops students’ ability to describe and analyse phenomena that involve uncertainty and variation.
-	1. Mathematics *Applications* focuses on financial modelling, geometric and trigonometric analysis, graphical and network analysis, growth, decay in sequences, statistical questions that involve univariate, bivariate data, time series data. *Applications* is designed for students who want to extend their mathematical skills beyond Year 10 level, but whose future studies or employment pathways do not require knowledge of calculus, including continuing their studies at university or TAFE.
+	1. Mathematics **Specialist** is the only ATAR mathematics course that should not be taken as a stand-alone course and it is recommended to be studied in conjunction with the **Methods** ATAR course as preparation for entry to specialised university courses such as engineering, physical sciences and mathematics.
+	1. Mathematics **Methods** focuses on the use of calculus and statistical analysis. The study of calculus provides a basis for understanding rates of change in the physical world, and includes the use of functions, their derivatives and integrals, in modelling physical processes. The study of statistics develops students’ ability to describe and analyse phenomena that involve uncertainty and variation.
+	1. Mathematics **Applications** focuses on financial modelling, geometric and trigonometric analysis, graphical and network analysis, growth, decay in sequences, statistical questions that involve univariate, bivariate data, time series data. **Applications** is designed for students who want to extend their mathematical skills beyond Year 10 level, but whose future studies or employment pathways do not require knowledge of calculus, including continuing their studies at university or TAFE.
 
 再根据我第一篇的选书 Extension 1 Year 11 -> Extension 1 Year 12 -> Extension 2 Year 12, 来列一下CambridgeMATHS系列的内容, 第一本Extension 1 Year 11:
 
@@ -71,14 +71,14 @@ PS:
 6 Mechanics
 ```
 
-NSW官网介绍高中数学的话, 最简洁直观的[页面](https://educationstandards.nsw.edu.au/wps/portal/nesa/11-12/stage-6-learning-areas/stage-6-mathematics)
+NSW官网介绍高中数学即Stage 6的话, 最简洁直观的[页面](https://educationstandards.nsw.edu.au/wps/portal/nesa/11-12/stage-6-learning-areas/stage-6-mathematics)
 
 
 ### NSW新州数学教学体系2
 
-具体课本(study and teaching / textbook)的挑选, 是个很麻烦的事, 因为到了Stage 6, 面临这边的高考
+具体课本(study and teaching / textbook)的挑选, 是个很麻烦的事, 因为到了Stage 6, 面临澳洲这边的高考
 
-这边有高中文凭HSC(Higher School Certificate), 也有类似高考ATAR, 当然只有想读大学的人参加
+这边有高中文凭HSC(Higher School Certificate), 也有类似高考的叫ATAR, 当然只有想读大学的人参加(挺多人不参加的, 因为毕竟是才开拓了二百年的"前殖民地", 荒野多人又少, 可供人类提供体力活改造的"世界"也挺多, 脑力活的"内卷"程度就要低很多)
 
 `THE Universities Admissions Centre (UAC) has announced that the Australian Tertiary Admission Rank (ATAR) for 2021 NSW HSC students will now be released at 9am on Thursday 20 January 2022.`
 
@@ -93,11 +93,11 @@ NSW官网介绍高中数学的话, 最简洁直观的[页面](https://educations
 1. Oxford insight Mathematics general
 1. Cambridge Mathematics 3 Unit (Extension 1) -- 这套直接放弃, 编排密度高, 练习过多, 例题过程不够
 
-![Cambridge_mathematics_3U_extension_1](figs/fig_cambridgemathematics3U.png){width=50%}
+![Cambridge_mathematics_3U_extension_1](figs/fig_cambridgemathematics3U.png){width=40%}
 
-![CambridgeMaths](figs/fig_camMaths.png){width=50%}
+![CambridgeMaths](figs/fig_camMaths.png){width=40%}
 
-![Oxford_insight](figs/fig_oxfordmath.png){width=50%}
+![Oxford_insight](figs/fig_oxfordmath.png){width=40%}
 
 
 ### NSW新州数学教学体系1
@@ -119,7 +119,7 @@ NSW官网介绍高中数学的话, 最简洁直观的[页面](https://educations
     1. 有时候看到叫enhanced的教科书, 这个叫法应该是改革前的
 	1. 包含关系: Extension 1 Year 11(12) course includes Advanced Year 11(12) course
 	1. 包含关系: Extension 2 Year 12 course includes Extension 1 Year 12 course & Advanced Year 12 course
-	1. 选书结论: Extension 1 Year 11 -> Extension 1 Year 12 -> Extension 2 Year 12 (书和课程不一样)
+	1. 选书结论: Extension 1 Year 11 -> Extension 1 Year 12(900多页) -> Extension 2 Year 12 (书和课程不一样)
 
 我和Summer觉得高中生学数学按照学术能力划分非常合理, 类似中国大学生考研究生选择 数一, 数二, 数三 的卷子
 
