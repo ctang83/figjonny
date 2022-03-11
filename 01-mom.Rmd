@@ -4,19 +4,78 @@
 
 ### Sydney Grammar School悉尼文法学校申请
 
+悉悉的申请悉尼文法学校其实已经有了进展, 我和Summer准备的材料内容应该是很impressive, 但是写的statement真的语病很多(我回头去看真羞愧), 但是不管怎样收到了reply说5月底Year 3 assessment, 下个月会通知details, 
+
 ![xxx](figs/xxx.png){width=50%}
 
+今天先挖个坑, 贴一些新足迹帖子讨论里的摘录:
 
+```r
+考试内容与流程
+
+三年级招一个班，大约是15-18人——参加考试的大约100-150。
+2018 y3 entrance exam 
+9:00 AM 参加 year3入学考试，100多个孩子吧。
+快九点是校长简单介绍几句就让大家放松，就让孩子们上楼，家长们也慢慢散了。
+
+中午12点20左右，只见孩子们一批批被放了出来。考了什么：
+1）reading comprehension，貌似有三四篇文章，之后有选择题和true or false
+2）creative writing，20分钟写一篇文章，儿子说时间够
+3）maths和problem solving
+两套题，problem solving 较难，儿子出来就说最后一道题肯定错了。没有除法，分数有一道。
+看来还是没有超大纲，考基本功和灵活运用
+4）spelling，20个单词，长的有photograph，儿子说没学校难
+
+按姓氏顺序分班，和其他班的家长交流下来，感觉不止一套试题，可能是为了保密性考虑吧
+
+2017 y3 entrance exam 
+
+英语:
+考词汇量考知识面：这次是填空题，有难度哦...
+例举一下：Dolphins manage to keep an Eye Out While Sleeping in order to look out for____.
+小A填predators（掠食者），我感觉填danger可能更好！不一定只有捕食者，也可能要应对各种危机嘛。
+
+阅读：阅读短篇，是非题。
+
+听力和写作：听老师讲一个故事，然后接下去续写故事，所以既考了听力，又考写作能力。总之是看孩子英语全方面的能力，很有挑战性！
+
+数学: 小A说是35道选择题，时间不够，没有锻炼过所以答题速度跟不上，不过据说题目不是特别难。
+
+
+-- St Ives Sydney Grammar Y3考试
+今年因为是疫情关系，所以以往的一轮笔试，一轮小组面试，压缩到一天完成。从早上9点到下午1点。
+孩子们集中在一起准备出发，引领他们的老师问大家有没有问题。
+
+考试内容。
+第一部分是25道数学题，比较简单，GA占了较大比重，45分钟内完成。
+(儿子说他15分钟就做完了，然后去看书。他很高兴找到了H.G Well 的The Invisible Man，看了两个chapter）
+第二部分是阅读理解，好像就几道题，也比较简单，也是30/45分钟左右完成。(具体他也说不出来了， 反正就是不难)
+第三部分是写作，老师读了一个（寓言）故事，然后孩子要按照这个故事写自己的寓言故事。
+
+小组活动是拼图，500片那种大拼图。
+儿子抱怨说拼图很难，他只找了7个，最多的找到了11个。
+我家儿子还不知道这也是考核内容，以为就是娱乐放松活动。。。。。。
+
+补习问题:
+SG 有问题问孩子有没有去补习学校？一般孩子们都是如实回答？
+在笔试当天考试开始前会让孩子们填个表，其中就有问参加了哪些补习班，要求填写补习的具体时间补习社的名字，哪些课外活动. 
+个人认为最好如实填写，即使因为这个拿不到奖学金，我们也绝不能教孩子撒谎，
+最后一关面试时也会被问到这个事情，孩子一定要有底气说实话.
+而且并不是大家说的补习了的孩子sg不愿意要，补习和补习还分情况了:
+有的补习7年有的5年有的半年，有的在外面补有的在家补，你说学校怎么去评判这个补习呢。
+所以孩子全面发展是硬道理，group activity后你会发现，
+那些参加的孩子里有好些什么钢琴小提琴8级的，孩子们在一起玩会互相交流。
+还有就是sg里面很多没有拿奖学金的孩子比有些拿了的厉害。
+```
 
 ### NSW新州数学教学体系3
-
-PS: 
 
 1. 在Gumtree上找数学书, 想着虽然从图书馆找书对比, 但高中毕竟不一样, 很多内容以后要反复练习和回顾, 悉悉在家里用的时间长, 还是买一套好了
 1. 然后发现, 新州NSW和维州VIC 西澳WA等对Stage 6几条线的数学书称谓又不一样, 他们叫Mathematics Essential, Applications, Methods, Specialist, 几个层级和NSW也吻合, 我觉得适用描述非常清晰, 摘录如下:
 	1. Mathematics **Specialist** is the only ATAR mathematics course that should not be taken as a stand-alone course and it is recommended to be studied in conjunction with the **Methods** ATAR course as preparation for entry to specialised university courses such as engineering, physical sciences and mathematics.
 	1. Mathematics **Methods** focuses on the use of calculus and statistical analysis. The study of calculus provides a basis for understanding rates of change in the physical world, and includes the use of functions, their derivatives and integrals, in modelling physical processes. The study of statistics develops students’ ability to describe and analyse phenomena that involve uncertainty and variation.
 	1. Mathematics **Applications** focuses on financial modelling, geometric and trigonometric analysis, graphical and network analysis, growth, decay in sequences, statistical questions that involve univariate, bivariate data, time series data. **Applications** is designed for students who want to extend their mathematical skills beyond Year 10 level, but whose future studies or employment pathways do not require knowledge of calculus, including continuing their studies at university or TAFE.
+1. Gumtree上搜year 11 math extension, 大部分卖的textbook都是两套: CambridgeMATHS 和 Maths in focus
 
 再根据我第一篇的选书 Extension 1 Year 11 -> Extension 1 Year 12 -> Extension 2 Year 12, 来列一下CambridgeMATHS系列的内容, 第一本Extension 1 Year 11:
 
