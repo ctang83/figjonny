@@ -92,24 +92,4 @@ For my notebook, all figures are saved in folder /NB_figs/figs. Using codes belo
 ![World real size](figs/world_realsize2.png){width=100%}
 
 
-# 爸爸的记录
-
-![](figs/.jpg){width=100%}
-
-![](figs/.jpg){width=100%}
-
-![](figs/.jpg){width=100%}
-
-![](figs/.jpg){width=100%}
-
-![](figs/.jpg){width=100%}
-
-![](figs/.jpg){width=100%}
-
-![](figs/.jpg){width=100%}
-
-![](figs/.jpg){width=100%}
-
-![](figs/.jpg){width=100%}
-
 
