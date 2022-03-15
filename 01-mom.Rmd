@@ -2,6 +2,18 @@
 
 ## Jan - March
 
+### LMS学习管理系统
+
+今天在搜索gifted scholarship时, 走到塔州教育部网页-gifted children support, 发现他们推荐Canvas也就是一种online learning management system, 我好奇走进去看了一下
+
+发现这是一个很大的project, 要把人的整个教育经验打包塞进一个数据集里, 包括K-12和Higher Edu的所有学习,练习,测试等所有环节
+
+Canvas的竞争对手是Google Classroom, 他们的区别在于其发展路径: 
+`Canvas is primarily used by higher education institutions, while Google Classroom is primarily used by primary education institutions`
+
+在用户评价上, Google比Canvas在价格,界面等方面要好
+
+
 
 ### NSW新州数学教学体系3
 
@@ -11,7 +23,7 @@
 	1. Mathematics **Methods** focuses on the use of calculus and statistical analysis. The study of calculus provides a basis for understanding rates of change in the physical world, and includes the use of functions, their derivatives and integrals, in modelling physical processes. The study of statistics develops students’ ability to describe and analyse phenomena that involve uncertainty and variation.
 	1. Mathematics **Applications** focuses on financial modelling, geometric and trigonometric analysis, graphical and network analysis, growth, decay in sequences, statistical questions that involve univariate, bivariate data, time series data. **Applications** is designed for students who want to extend their mathematical skills beyond Year 10 level, but whose future studies or employment pathways do not require knowledge of calculus, including continuing their studies at university or TAFE.
 1. Gumtree上搜year 11 math extension, 大部分卖的textbook都是两套: CambridgeMATHS 和 Maths in focus
-  1. CambridgeMATHS这套应该是王牌, 1)在parramatta图书馆同一本书数量最大, 2)本书作者群5个有4个是Sydney Grammar School的老师, 同时和HSC有联系, 换句话说NSW高考数学出题圈hidden network可能在SGS
+1. CambridgeMATHS这套应该是王牌, 1)在parramatta图书馆同一本书数量最大, 2)本书作者群5个有4个是Sydney Grammar School的数学老师, 同时和HSC有联系, 换句话说NSW高考数学出题圈hidden network可能和SGS有关 
 
 再根据我第一篇的选书 Extension 1 Year 11 -> Extension 1 Year 12 -> Extension 2 Year 12, 来列一下CambridgeMATHS系列的内容:
 

@@ -1,5 +1,5 @@
 --- 
-title: "My book with maps & geo 悉悉的地图和地理"
+title: "My book with maps & geo 悉悉尼尼爱大海"
 author: "Jonny Tang 唐憬哲 (唐程翔)"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
