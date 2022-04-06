@@ -2,16 +2,6 @@
 
 ## Jan - March
 
-### LMS学习管理系统
-
-今天在搜索gifted scholarship时, 走到塔州教育部网页-gifted children support, 发现他们推荐Canvas也就是一种online learning management system, 我好奇走进去看了一下
-
-发现这是一个很大的project, 要把人的整个教育经验打包塞进一个数据集里, 包括K-12和Higher Edu的所有学习,练习,测试等所有环节
-
-Canvas的竞争对手是Google Classroom, 他们的区别在于其发展路径: 
-`Canvas is primarily used by higher education institutions, while Google Classroom is primarily used by primary education institutions`
-
-在用户评价上, Google比Canvas在价格,界面等方面要好
 
 
 
@@ -105,6 +95,18 @@ NSW官网介绍高中数学即Stage 6的话, 最简洁直观的[页面](https://
 1. 第3条线的教科书我对比了, 是cover第2条线内容的(800多页 VS. 500多页), 
 1. 第4条线的书比较薄, 明显是第3条的递进, 结论就是选第3条线(extension 1 还有个preliminary配合)
 
+
+
+### LMS学习管理系统
+
+今天在搜索gifted scholarship时, 走到塔州教育部网页-gifted children support, 发现他们推荐Canvas也就是一种online learning management system, 我好奇走进去看了一下
+
+发现这是一个很大的project, 要把人的整个教育经验打包塞进一个数据集里, 包括K-12和Higher Edu的所有学习,练习,测试等所有环节
+
+Canvas的竞争对手是Google Classroom, 他们的区别在于其发展路径: 
+`Canvas is primarily used by higher education institutions, while Google Classroom is primarily used by primary education institutions`
+
+在用户评价上, Google比Canvas在价格,界面等方面要好
 
 
 ### Sydney Grammar School悉尼文法学校申请
