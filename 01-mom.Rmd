@@ -1,5 +1,8 @@
 # Notes 2022
 
+澳大利亚劳动者的[休假、休息和薪酬](https://www.fairwork.gov.au/tools-and-resources/language-help/simplified-chinese/holidays-and-taking-time-off-work)
+
+
 ## April
 
 番茄英语Tomato English有一些Buzz Australia系列, 悉悉非常喜欢
@@ -9,9 +12,10 @@
 NSW所有的opal线路免费乘坐12天, 我和Summer昨天开始带他们坐火车, 昨天去了Gosford, 今天去了Cronulla
 
 回来的路上我想起NSW Transport上次不是提供各种学生入职计划(NSW Transport不愧是NSW公部门排第二的雇主, 第一是NSW Health), 我就查了一下, 发现了2023年的
-	1. Cadet Program – Expressions of Interest 学员计划, 中途加入的大学生计划
-	1. Graduate Program – Expressions of Interest 研究生计划
-	1. Scholar Program – Expressions of Interest 大学生计划, 针对所有大学生3-5年的实习, 大学一开始就加入
+
+1. Cadet Program – Expressions of Interest 学员计划, 中途加入的大学生计划
+1. Graduate Program – Expressions of Interest 研究生计划
+1. Scholar Program – Expressions of Interest 大学生计划, 针对所有大学生3-5年的实习, 大学一开始就加入
 	
 然后在NSW Transport的`Data and research`我也查到了我这个level的The Australian Postgraduate Research (APR) Intern program, 这个项目是`only national internship program connecting Australian industry with skilled PhD Students`. 
 
@@ -73,18 +77,19 @@ NSW官网介绍高中数学即Stage 6的话, 最简洁直观的[页面](https://
 1. Oxford insight Mathematics general
 1. Cambridge Mathematics 3 Unit (Extension 1) -- 这套直接放弃, 编排密度高, 练习过多, 例题过程不够
 
-![Cambridge_mathematics_3U_extension_1](figs/fig_cambridgemathematics3U.png){width=40%}
+![Cambridge_mathematics_3U_extension_1](https://raw.githubusercontent.com/ctang83/NB_img/main/fig_cambridgemathematics3U.png){width=40%}
 
-![CambridgeMaths](figs/fig_camMaths.png){width=40%}
+![CambridgeMaths](https://raw.githubusercontent.com/ctang83/NB_img/main/fig_camMaths.png){width=40%}
 
-![Oxford_insight](figs/fig_oxfordmath.png){width=40%}
+![Oxford_insight](https://raw.githubusercontent.com/ctang83/NB_img/main/fig_oxfordmath.png){width=40%}
 
  
 ### NSW新州数学教学体系1
 
 悉悉2022年3月6日, 正式学完K-Year10的数学, 已自学内容包括: 
 
-1. Kumon math A to K-level, 
+1. 上海数学小学阶段
+1. 公文数学 Kumon math A to K-level, 
 1. NAPLAN Year 7, 
 1. IB Mathematics Grade 8/9, 
 1. Cambridge MATHS NSW Year 9/10 
@@ -99,7 +104,8 @@ NSW官网介绍高中数学即Stage 6的话, 最简洁直观的[页面](https://
     1. 有时候看到叫enhanced的教科书, 这个叫法应该是改革前的
 	1. 包含关系: Extension 1 Year 11(12) course includes Advanced Year 11(12) course
 	1. 包含关系: Extension 2 Year 12 course includes Extension 1 Year 12 course & Advanced Year 12 course
-	1. 选书结论: Extension 1 Year 11 -> Extension 1 Year 12(900多页) -> Extension 2 Year 12 (书和课程不一样)
+
+选书结论: Extension 1 Year 11 -> Extension 1 Year 12(900多页) -> Extension 2 Year 12 (书和课程不一样)
 
 我和Summer觉得高中生学数学按照学术能力划分非常合理, 类似中国大学生考研究生选择 数一, 数二, 数三 的卷子
 
